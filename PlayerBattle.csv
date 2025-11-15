@@ -1,0 +1,21 @@
+﻿Id,Match_Id,Date,Match,Venue Country,Venue,Format,Tournment,UserSelectedFirst,Bet Amount,Top Loss Run,Your Points,Computer Points,Bet Place Amount,Amount Received ,Profit/Loss,Won/Lost,Returns %
+1,1,25-10-2025,AUS Vs IND,Australia,Sydney,ODI,Ind Tour of Aus 2025,No,15,150,307,216,2250,3615,1365,Won,160.67
+2,2,25-10-2025,AUSW Vs SAW,India,Indore,WODI,ICC World Cup 2025,No,5,150,152,53,750,1245,495,Won,166.00
+3,3,27-10-2025,BAN Vs WI,Bangladesh,Chattogram,T20I,WI Tour of BAN 2025,No,30,100,106,100,3000,3180,180,Won,106.00
+4,4,28-10-2025,PAK Vs SA,Pakistan,Rawalpindi,T20I,SA Tour of PAK 2025,No,25,100,126,62,2500,4100,1600,Won,164.00
+5,4,28-10-2025,PAK Vs SA,Pakistan,Rawalpindi,T20I,SA Tour of PAK 2025,No,5,100,140,48,500,960,460,Won,192.00
+6,5,29-10-2025,NZ Vs ENG,New Zealand,Hamilton,ODI,ENG Tour of NZ 2025,Yes,12.15,150,140,109,1822.5,2199.15,376.65,Won,120.67
+7,5,29-10-2025,NZ Vs ENG,New Zealand,Hamilton,ODI,ENG Tour of NZ 2025,Yes,7.776,150,140,109,1166.4,1407.456,241.056,Won,120.67
+8,6,29-10-2025,ZIM Vs AFG,Zimbabwe,Harare,T20I,AFG Tour of ZIM 2025,No,6,100,94,45,600,894,294,Won,149.00
+9,7,31-10-2025,AUS Vs IND,Australia,Melbourne,T20I,Ind Tour of Aus 2025,no,5,100,122,54,500,840,340,Won,168.00
+10,7,31-10-2025,AUS Vs IND,Australia,Melbourne,T20I,Ind Tour of Aus 2025,No,5,100,122,54,500,840,340,Won,168.00
+11,8,31-10-2025,ZIM Vs AFG,Zimbabwe,Harare,T20I,AFG Tour of ZIM 2025,Yes,10,100,100,79,1000,1210,210,Won,121.00
+12,9,31-10-2025,BAN Vs WI,Bangladesh,Bir Shrestha Shahid Flight Lieutenant Motiur Rahman Cricket Stadium,T20I,WI Tour of BAN 2025,Yes,10,100,143,67,1000,1760,760,Won,176.00
+13,9,31-10-2025,BAN Vs WI,Bangladesh,Bir Shrestha Shahid Flight Lieutenant Motiur Rahman Cricket Stadium,T20I,WI Tour of BAN 2025,Yes,7,100,140,70,700,1190,490,Won,170.00
+14,10,31-10-2025,PAK Vs SA,Pakistan,Lahore,T20I,SA Tour of PAK 2025,No,10,100,67,117,1000,500,-500,Lost,50.00
+15,10,31-10-2025,PAK Vs SA,Pakistan,Lahore,T20I,SA Tour of PAK 2025,No,7,100,67,117,700,350,-350,Lost,50.00
+16,11,01-11-2025,NZ Vs ENG,New Zealand,Wellington,ODI,ENG Tour of NZ 2025,No,25,150,129,105,3750,4350,600,Won,116
+17,12,02-11-2025,IND Vs AUS,Australia,Hobart,T20I,Ind Tour of Aus 2025,No,17,100,92,101,1700,1547,-153,Lost,91
+18,12,02-11-2025,IND Vs AUS,Australia,Hobart,T20I,Ind Tour of Aus 2025,No,10,100,101,92,1000,1090,90,Won,109
+19,13,02-11-2025,ZIM Vs AFG,Zimbabwe,Harare,T20I,AFG Tour of ZIM 2025,Yes,10,100,177,145,1000,1320,320,Won,132
+20,14,02-11-2025,INDW Vs SAW,India,DY Patel Stadium,ODI,ICC World Cup 2025,Yes,25,150,265,188,3750,5675,1925,Won,151.33
